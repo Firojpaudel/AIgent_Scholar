@@ -18,7 +18,7 @@
 
 ## Demo
 
-![AIgent_Scholar in Action](./Images/Projectdemo.gif)
+![AIgent_Scholar in Action](./Images/P_demo.gif)
 
 ---
 
