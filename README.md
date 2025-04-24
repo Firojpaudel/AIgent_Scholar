@@ -1,4 +1,4 @@
-# AIgent_Scholar: Agentic RAG for Fetching AI Agent Papers 📚
+# AIgent_Scholar: Agentic RAG for Fetching Research Papers 📚
 
 **AIgent_Scholar** is a Streamlit-powered web app that fetches, indexes, and queries the latest research papers from arXiv, focusing on AI agents and beyond. It started as a Jupyter Notebook for fetching AI agent papers but evolved into a full-fledged app that lets you explore papers on any topic, index them efficiently, and query them using a smart chatbot interface. Built with LlamaIndex, LangGraph, and ChromaDB, this app leverages agentic Retrieval-Augmented Generation (RAG) to streamline your research experience.
 
